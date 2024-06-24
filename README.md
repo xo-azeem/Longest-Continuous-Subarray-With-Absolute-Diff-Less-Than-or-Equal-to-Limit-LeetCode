@@ -38,5 +38,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit-LeetCode/assets/171427226/e5900195-687c-43cd-aba6-eb49842e521f)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(n).</br>Space complexity: O(n).
 </div>
